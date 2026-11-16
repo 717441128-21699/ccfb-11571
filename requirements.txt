@@ -1,0 +1,2 @@
+# 仅使用 Python 标准库（sqlite3 / http.server / threading / hashlib / heapq）
+# Python >= 3.10
